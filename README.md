@@ -1,9 +1,12 @@
-# Week 2 Project: Build the charity: water Landing Page
-To get started, create a new Codespace from this repo.
+# Charity: Water Landing Page
 
-In this Project, you’ll transform your Canva mockup into a fully functional landing page using HTML and CSS. This is your chance to take your creative concept — with your brand visuals, your messaging, and your imagery — and make it real. You'll build a site that not only looks great, but also educates, inspires, and drives action.
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</p>
 
-With help from AI to jumpstart your layout, you'll focus on structuring your content, applying your brand style, and creating a polished final product that reflects your vision. By the end of this Project, you’ll have a live, interactive page deployed to the web. You can share this work when you want to showcase your technical skills and your passion for digital storytelling. 
+<img src="img/charitywaterLP.png">
 
 ## charity: water Brand Colors & Fonts
 
